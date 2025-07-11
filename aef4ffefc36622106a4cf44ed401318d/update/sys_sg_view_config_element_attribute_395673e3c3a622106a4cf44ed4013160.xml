@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <creation_method/>
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-11 18:21:58</sys_created_on>
+        <sys_id>395673e3c3a622106a4cf44ed4013160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Collection" source="x_1268500_collect">aef4ffefc36622106a4cf44ed401318d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection">aef4ffefc36622106a4cf44ed401318d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_395673e3c3a622106a4cf44ed4013160</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-11 18:21:58</sys_updated_on>
+        <translated_value/>
+        <value>skip_sync</value>
+        <view_config_element display_value="skip_sync-FieldValue">f55673e3c3a622106a4cf44ed401315e</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=395673e3c3a622106a4cf44ed4013160"/>
+</record_update>
